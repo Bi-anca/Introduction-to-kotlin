@@ -27,4 +27,7 @@ fun main(args: Array<String>) {
         println(b)
         b++
     }while (b < 10)
+//    assignment :FIZZBUZZ
+//    arrays
+//    functions
 }
